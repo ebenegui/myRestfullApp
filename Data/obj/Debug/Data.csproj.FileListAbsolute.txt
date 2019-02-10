@@ -1,0 +1,10 @@
+c:\users\operador\documents\visual studio 2015\Projects\MyRestfullApp\Data\bin\Debug\Data.dll.config
+c:\users\operador\documents\visual studio 2015\Projects\MyRestfullApp\Data\bin\Debug\Data.dll
+c:\users\operador\documents\visual studio 2015\Projects\MyRestfullApp\Data\bin\Debug\Data.pdb
+c:\users\operador\documents\visual studio 2015\Projects\MyRestfullApp\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+c:\users\operador\documents\visual studio 2015\Projects\MyRestfullApp\Data\obj\Debug\Data.dll
+c:\users\operador\documents\visual studio 2015\Projects\MyRestfullApp\Data\obj\Debug\Data.pdb
+C:\Users\operador\Documents\Visual Studio 2015\Projects\MyRestfullApp\Data\bin\Debug\EntityFramework.dll
+C:\Users\operador\Documents\Visual Studio 2015\Projects\MyRestfullApp\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\operador\Documents\Visual Studio 2015\Projects\MyRestfullApp\Data\bin\Debug\EntityFramework.xml
+C:\Users\operador\Documents\Visual Studio 2015\Projects\MyRestfullApp\Data\bin\Debug\EntityFramework.SqlServer.xml
